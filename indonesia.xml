@@ -209,9 +209,9 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_96.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="tvOne.id">
-    <display-name lang="id">tvOne</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/tvone.png" />
+  <channel id="tvOneGalaxyA03">
+    <display-name lang="id">tvOne Galaxy A03</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_97.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MNCSports2.id">
@@ -269,8 +269,9 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_111.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="besmart.id">
-    <display-name lang="id">besmart</display-name>
+  <channel id="DAAITV">
+    <display-name lang="id">DAAI TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_112.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="JakTV.id">
@@ -386,6 +387,11 @@
   <channel id="ROCKEntertainment.id">
     <display-name lang="id">ROCK Entertainment</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_240.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBCLifestyle">
+    <display-name lang="id">BBC Lifestyle</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_241.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ROCKAction.id">
@@ -4391,82 +4397,82 @@
   <programme start="20240129233000 +0700" stop="20240130003000 +0700" channel="Ie.id">
     <title lang="id">Trending Banget Loh (TBL)</title>
   </programme>
-  <programme start="20240129000000 +0700" stop="20240129003000 +0700" channel="tvOne.id">
+  <programme start="20240129000000 +0700" stop="20240129003000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Menyingkap Tabir</title>
   </programme>
-  <programme start="20240129003000 +0700" stop="20240129010000 +0700" channel="tvOne.id">
+  <programme start="20240129003000 +0700" stop="20240129010000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Utama</title>
   </programme>
-  <programme start="20240129010000 +0700" stop="20240129013000 +0700" channel="tvOne.id">
+  <programme start="20240129010000 +0700" stop="20240129013000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Hari Ini</title>
   </programme>
-  <programme start="20240129013000 +0700" stop="20240129030000 +0700" channel="tvOne.id">
+  <programme start="20240129013000 +0700" stop="20240129030000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Petang</title>
   </programme>
-  <programme start="20240129030000 +0700" stop="20240129033000 +0700" channel="tvOne.id">
+  <programme start="20240129030000 +0700" stop="20240129033000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Utama</title>
   </programme>
-  <programme start="20240129033000 +0700" stop="20240129040000 +0700" channel="tvOne.id">
+  <programme start="20240129033000 +0700" stop="20240129040000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Hari Ini</title>
   </programme>
-  <programme start="20240129040000 +0700" stop="20240129043000 +0700" channel="tvOne.id">
+  <programme start="20240129040000 +0700" stop="20240129043000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Arena Pagi</title>
   </programme>
-  <programme start="20240129043000 +0700" stop="20240129060000 +0700" channel="tvOne.id">
+  <programme start="20240129043000 +0700" stop="20240129060000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Pagi</title>
   </programme>
-  <programme start="20240129060000 +0700" stop="20240129063000 +0700" channel="tvOne.id">
+  <programme start="20240129060000 +0700" stop="20240129063000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Arena Pagi</title>
   </programme>
-  <programme start="20240129063000 +0700" stop="20240129083000 +0700" channel="tvOne.id">
+  <programme start="20240129063000 +0700" stop="20240129083000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Apa Kabar Indonesia Pagi</title>
   </programme>
-  <programme start="20240129083000 +0700" stop="20240129093000 +0700" channel="tvOne.id">
+  <programme start="20240129083000 +0700" stop="20240129093000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Utama Pagi</title>
   </programme>
-  <programme start="20240129093000 +0700" stop="20240129100000 +0700" channel="tvOne.id">
+  <programme start="20240129093000 +0700" stop="20240129100000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Hidup Sehat</title>
   </programme>
-  <programme start="20240129100000 +0700" stop="20240129103000 +0700" channel="tvOne.id">
+  <programme start="20240129100000 +0700" stop="20240129103000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Inspirasi Pagi</title>
   </programme>
-  <programme start="20240129103000 +0700" stop="20240129110000 +0700" channel="tvOne.id">
+  <programme start="20240129103000 +0700" stop="20240129110000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Ragam Perkara Siang</title>
   </programme>
-  <programme start="20240129110000 +0700" stop="20240129130000 +0700" channel="tvOne.id">
+  <programme start="20240129110000 +0700" stop="20240129130000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Siang</title>
   </programme>
-  <programme start="20240129130000 +0700" stop="20240129143000 +0700" channel="tvOne.id">
+  <programme start="20240129130000 +0700" stop="20240129143000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Apa Kabar Indonesia Siang</title>
   </programme>
-  <programme start="20240129143000 +0700" stop="20240129153000 +0700" channel="tvOne.id">
+  <programme start="20240129143000 +0700" stop="20240129153000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Pemilu</title>
   </programme>
-  <programme start="20240129153000 +0700" stop="20240129160000 +0700" channel="tvOne.id">
+  <programme start="20240129153000 +0700" stop="20240129160000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Ragam Perkara</title>
   </programme>
-  <programme start="20240129160000 +0700" stop="20240129180000 +0700" channel="tvOne.id">
+  <programme start="20240129160000 +0700" stop="20240129180000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Petang</title>
   </programme>
-  <programme start="20240129180000 +0700" stop="20240129200000 +0700" channel="tvOne.id">
+  <programme start="20240129180000 +0700" stop="20240129200000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Apa Kabar Indonesia Malam</title>
   </programme>
-  <programme start="20240129200000 +0700" stop="20240129210000 +0700" channel="tvOne.id">
+  <programme start="20240129200000 +0700" stop="20240129210000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Fakta</title>
   </programme>
-  <programme start="20240129210000 +0700" stop="20240129220000 +0700" channel="tvOne.id">
+  <programme start="20240129210000 +0700" stop="20240129220000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Utama</title>
   </programme>
-  <programme start="20240129220000 +0700" stop="20240129221500 +0700" channel="tvOne.id">
+  <programme start="20240129220000 +0700" stop="20240129221500 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Breaking News</title>
   </programme>
-  <programme start="20240129221500 +0700" stop="20240129223000 +0700" channel="tvOne.id">
+  <programme start="20240129221500 +0700" stop="20240129223000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Israel Bumi Hanguskan Gaza</title>
   </programme>
-  <programme start="20240129223000 +0700" stop="20240129233000 +0700" channel="tvOne.id">
+  <programme start="20240129223000 +0700" stop="20240129233000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Hari Ini</title>
   </programme>
-  <programme start="20240129233000 +0700" stop="20240130000000 +0700" channel="tvOne.id">
+  <programme start="20240129233000 +0700" stop="20240130000000 +0700" channel="tvOneGalaxyA03">
     <title lang="id">Kabar Arena Malam</title>
   </programme>
   <programme start="20240129000000 +0700" stop="20240129003000 +0700" channel="MNCSports2.id">
@@ -5413,6 +5419,117 @@
   </programme>
   <programme start="20240129234500 +0700" stop="20240130014500 +0700" channel="MusicTV.id">
     <title lang="id">Indonesian Idol X</title>
+  </programme>
+  <programme start="20240129000000 +0700" stop="20240129003000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129003000 +0700" stop="20240129010000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129010000 +0700" stop="20240129020000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129020000 +0700" stop="20240129030000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129030000 +0700" stop="20240129033000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129033000 +0700" stop="20240129040000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129040000 +0700" stop="20240129043000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129043000 +0700" stop="20240129060000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129060000 +0700" stop="20240129070000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129070000 +0700" stop="20240129080000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129080000 +0700" stop="20240129083000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129083000 +0700" stop="20240129090000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129090000 +0700" stop="20240129090300 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129090300 +0700" stop="20240129093000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129093000 +0700" stop="20240129100000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129100000 +0700" stop="20240129100300 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129100300 +0700" stop="20240129103000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129103000 +0700" stop="20240129110000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129110000 +0700" stop="20240129110300 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129110300 +0700" stop="20240129120000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129120000 +0700" stop="20240129130000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129130000 +0700" stop="20240129133000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129133000 +0700" stop="20240129140000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129140000 +0700" stop="20240129140300 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129140300 +0700" stop="20240129143000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129143000 +0700" stop="20240129150000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129150000 +0700" stop="20240129150300 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129150300 +0700" stop="20240129153000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129153000 +0700" stop="20240129170000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129170000 +0700" stop="20240129180000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129180000 +0700" stop="20240129190000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129190000 +0700" stop="20240129200000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129200000 +0700" stop="20240129210000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129210000 +0700" stop="20240129213000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129213000 +0700" stop="20240129223000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129223000 +0700" stop="20240129233000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
+  </programme>
+  <programme start="20240129233000 +0700" stop="20240130000000 +0700" channel="DAAITV">
+    <title lang="id">DAAI TV</title>
   </programme>
   <programme start="20240129060000 +0700" stop="20240129063000 +0700" channel="JakTV.id">
     <title lang="id">Inside</title>
@@ -8119,6 +8236,117 @@
   <programme start="20240129230000 +0700" stop="20240130004000 +0700" channel="ROCKEntertainment.id">
     <title lang="id">Change In The Air</title>
     <desc lang="id">Saat seorang wanita muda nan memesona pindah ke sebuah pemukiman, lingkungan yang tenang menjadi hidup dan membuat semua orang menghadapi rahasia dan diri mereka sendiri.(n)</desc>
+  </programme>
+  <programme start="20240129000000 +0700" stop="20240129003000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129003000 +0700" stop="20240129010000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129010000 +0700" stop="20240129020000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129020000 +0700" stop="20240129030000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129030000 +0700" stop="20240129033000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129033000 +0700" stop="20240129040000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129040000 +0700" stop="20240129043000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129043000 +0700" stop="20240129060000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129060000 +0700" stop="20240129070000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129070000 +0700" stop="20240129080000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129080000 +0700" stop="20240129083000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129083000 +0700" stop="20240129090000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129090000 +0700" stop="20240129090300 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129090300 +0700" stop="20240129093000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129093000 +0700" stop="20240129100000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129100000 +0700" stop="20240129100300 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129100300 +0700" stop="20240129103000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129103000 +0700" stop="20240129110000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129110000 +0700" stop="20240129110300 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129110300 +0700" stop="20240129120000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129120000 +0700" stop="20240129130000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129130000 +0700" stop="20240129133000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129133000 +0700" stop="20240129140000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129140000 +0700" stop="20240129140300 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129140300 +0700" stop="20240129143000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129143000 +0700" stop="20240129150000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129150000 +0700" stop="20240129150300 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129150300 +0700" stop="20240129153000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129153000 +0700" stop="20240129170000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129170000 +0700" stop="20240129180000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129180000 +0700" stop="20240129190000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129190000 +0700" stop="20240129200000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129200000 +0700" stop="20240129210000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129210000 +0700" stop="20240129213000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129213000 +0700" stop="20240129223000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129223000 +0700" stop="20240129233000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
+  </programme>
+  <programme start="20240129233000 +0700" stop="20240130000000 +0700" channel="BBCLifestyle">
+    <title lang="id">BBC Lifestyle</title>
   </programme>
   <programme start="20240129013000 +0700" stop="20240129030000 +0700" channel="ROCKAction.id">
     <title lang="id">Identity</title>
